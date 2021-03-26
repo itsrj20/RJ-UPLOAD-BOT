@@ -15,7 +15,7 @@ An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
 
 #### You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/itsrj20/RJ-UPLOAD-BOT/tree/main)[![Depl
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/itsrj20/RJ-UPLOAD-BOT/tree/main)
 
 #### The Hard Way
 
@@ -30,10 +30,10 @@ python bot.py
 ## Our Telegram Channel and Group
 
 * [Contact](https://telegram.dog/itsrj20)
-* [Help](https://telegram.dog/itsrj20)
-* [Support](https://telegram.dog/itsrj20)
+* [Ask Help](https://telegram.dog/itsrj20)
+* [Support Group](https://telegram.dog/IndianRedmiK20pro)
 
-- For FeedBack and Suggestions, please feel free to say in [to](https://telegram.dog/itsrj20)
+- For FeedBack and Suggestions, please feel free to say in [Group](https://telegram.dog/IndianRedmiK20pro)
 
 #### LICENSE
 - GPLv3
