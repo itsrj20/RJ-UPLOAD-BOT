@@ -11,9 +11,9 @@ An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
 
 ### Installation
 
-#### The Easy Way
+#### Support - https://t.me/itsrj20
 
-#### You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
+#### The Easy Way You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/itsrj20/RJ-UPLOAD-BOT/tree/main)
 
