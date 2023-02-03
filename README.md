@@ -31,9 +31,6 @@ python bot.py
 
 * [Contact](https://telegram.dog/itsrj20)
 * [Ask Help](https://telegram.dog/itsrj20)
-* [Support Group](https://telegram.dog/IndianRedmiK20pro)
-
-- For FeedBack and Suggestions, please feel free to say in [Group](https://telegram.dog/IndianRedmiK20pro)
 
 #### LICENSE
 - GPLv3
